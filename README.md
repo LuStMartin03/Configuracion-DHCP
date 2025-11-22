@@ -1,11 +1,14 @@
 # Configuracion DHCP
 Proyecto academico en parejas de investigación e implementación del protocolo de red de DHCP.
 
----
 ## Integrantes
 - Isabella Murioni
 - Lucia Saint Martin
----
+
+## Contenidos del repositorio:
+- Trabajo Practico n°2 **PDF**: Investigación sobre el protocolo.
+- DHCP **PDF**: Presentacion de la investigación.
+- Packettracer DHCP **PKT**: Implementación en Packet Tracer.
 
 ## Implementación:
 
