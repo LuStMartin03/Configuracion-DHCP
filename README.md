@@ -1,10 +1,12 @@
-# tp2_redes
-DHCP configuracion
+# Configuracion DHCP
+Proyecto academico en parejas de investigación e implementación del protocolo de red de DHCP.
+
 ---
 ## Integrantes
 - Isabella Murioni
 - Lucia Saint Martin
 ---
+
 ## Implementación:
 
 1. Primero instalamos packet tracer en nuestro pendrive booteable con Linux y una vez instalado, armamos la red: con 1 router, 1 switch y 2 PCs.
